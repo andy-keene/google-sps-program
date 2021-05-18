@@ -1,6 +1,6 @@
 # Overview
 
-This repo contains projects that students enrolled in Google's Software Product Sprint (SPS) must complete. 
+This repo contains projects that students enrolled in Google's [Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) (SPS) must complete. 
 
 I volunteered as a Project Advisor for this program during the Summer of 2021.
 
